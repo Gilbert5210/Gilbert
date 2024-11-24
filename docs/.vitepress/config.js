@@ -1,4 +1,5 @@
 export default {
+	base: '/Gilbert/', // 替换为你的 GitHub Pages 仓库名
 	title: 'Gilbert',// 网站标题
 	description: 'vue-cli/二次封装/vue3/axios/多入口打包', //网站描述
 	ignoreDeadLinks: true,// 最好加上，构建时会忽略md中的外链
