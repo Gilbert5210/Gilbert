@@ -1,0 +1,17 @@
+{
+  "name": "gilbert-blog",
+  "version": "1.0.0",
+  "description": "个人随便记录",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "repository": "https://github.com/Gilbert5210",
+  "author": "Gilbert",
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "^1.5.0"
+  }
+}
