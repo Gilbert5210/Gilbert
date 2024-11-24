@@ -1,7 +1,7 @@
 ---
 
 layout: home
-title: homepage
+title: Gilbert 主页
 description: 个人主页
 
 hero:

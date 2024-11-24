@@ -13,7 +13,7 @@ export default {
 	// 主题配置
 	themeConfig: {
 		socialLinks: [//右上角图标和链接，icon 可用svg 配置
-			{ icon: 'github', link: 'https://github.com/Yinzhuo19970516/vue-template' },
+			{ icon: 'github', link: 'https://github.com/Gilbert5210' },
 			// { icon: 'slack', link: 'https://juejin.cn/user/1011206428301774' }
 		],
 		lastUpdatedText: '更新时间',
