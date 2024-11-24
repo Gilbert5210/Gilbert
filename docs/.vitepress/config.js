@@ -20,13 +20,14 @@ export default {
 		siteTitle: 'Gilbert',
 		nav: [//右侧导航
 			{ text: '首页', link: '/' },
-			{ text: '技术沉淀', link: '/technical/index' }
+			{ text: '技术沉淀', link: '/technical/' }
 		],
 		// 侧边导航
 		sidebar: [
 			{
 				text: '技术沉淀',
 				items: [
+					{ text: '快速开始', link: '/technical/' },
 					{ text: '微前端探索', link: '/technical/micro' },
 				]
 			}
